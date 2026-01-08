@@ -1,0 +1,7 @@
+{
+  "name": "Character Studio PRO",
+  "description": "Sistema avançado de geração de personagens com clonagem de voz por referência e backup centralizado.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
